@@ -1,0 +1,9 @@
+https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
+
+windows 可以下載安裝 cmder 這個模擬 Linux terminal 終端機時選擇完整版本就會順便安裝或是到 Git 官網安裝。當然在市面上有許多免費 GUI 圖形化的 Git 操作軟體，
+若是初學者則建議先熟悉整個 git 工作模式和指令，再去使用圖形化工具會比較好，
+這樣你才比較知道圖形化程式背後做了什麼事情。Mac 則是可以到 Git 官方網站 選擇對應作業系統，
+按照步驟完整下載安裝。另外也可以參考中文安裝教學。
+
+由於我們會選擇 Github 當作遠端托管程式的環境，所以我們也可以根據作業系統安裝 Github 桌面版當作操作工具
+內建安裝 Git）。
